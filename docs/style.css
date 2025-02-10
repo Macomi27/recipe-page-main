@@ -86,9 +86,16 @@ h2{
     opacity: 0.8;
     margin-left: 15px; 
 }
+
+.list{
+    padding-left: 15px;
+}
+
 ol li::marker{
     color: hsl(14, 45%, 36%);
-    font-weight: bold;
+    font-weight: 700;
+    opacity: 0.8;
+    
 }
 
 .para1{
