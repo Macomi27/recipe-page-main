@@ -20,7 +20,7 @@ body{
     height: 100vh;
 }
 .recipe-container{
-    width: 60%;
+    width: 50%;
     background-color: hsl(0, 0%, 100%);
     margin-top: 50px;
     margin-bottom: 50px;
